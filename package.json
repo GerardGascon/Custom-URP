@@ -18,11 +18,6 @@
     "render",
     "pipeline"
   ],
-  "author": {
-    "name": "Geri",
-    "email": "ggasconmoline@gmail.com",
-    "url": "https://gerardgascon.live/"
-  },
   "samples": [
     {
       "displayName": "URP Package Samples",
