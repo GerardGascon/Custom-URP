@@ -1,9 +1,9 @@
 {
   "name": "com.unity.render-pipelines.universal",
-  "description": "The Custom Universal Render Pipeline (CURP) is a prebuilt Scriptable Render Pipeline, made by Unity and modified by Geri. I don't know why I'm doing this.",
+  "description": "The Universal Render Pipeline (URP) is a prebuilt Scriptable Render Pipeline, made by Unity. URP provides artist-friendly workflows that let you quickly and easily create optimized graphics across a range of platforms, from mobile to high-end consoles and PCs.",
   "version": "12.1.7",
   "unity": "2021.2",
-  "displayName": "Custom Universal RP",
+  "displayName": "Universal RP",
   "dependencies": {
     "com.unity.mathematics": "1.2.1",
     "com.unity.burst": "1.7.3",
