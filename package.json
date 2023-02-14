@@ -1,5 +1,5 @@
 {
-  "name": "com.geri.render-pipelines.universal",
+  "name": "com.unity.render-pipelines.universal",
   "description": "The Custom Universal Render Pipeline (CURP) is a prebuilt Scriptable Render Pipeline, made by Unity and modified by Geri. I don't know why I'm doing this.",
   "version": "12.1.7",
   "unity": "2021.2",
