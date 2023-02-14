@@ -18,6 +18,9 @@
     "render",
     "pipeline"
   ],
+  "author": {
+    "name": "Geri"
+  },
   "samples": [
     {
       "displayName": "URP Package Samples",
